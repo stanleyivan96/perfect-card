@@ -12,7 +12,7 @@ const inter = Inter({
 })
 
 const monaSans = localFont({
-  src: './fonts/Mona-Sans.var.woff2',
+  src: '../fonts/Mona-Sans.var.woff2',
   display: 'swap',
   variable: '--font-mona-sans',
   weight: '200 900',
